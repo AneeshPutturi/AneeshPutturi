@@ -5,7 +5,7 @@
 # 👋 Aneesh Putturi  
 ### Lead .NET Full-Stack Engineer · Backend-First · Enterprise Systems
 
-📍 Dallas, TX · 📧 putturianeesh02@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/aneesh-putturi-38859191/)
+ 📧 putturianeesh02@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/aneesh-putturi-38859191/)
 
 </div>
 
