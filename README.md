@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Aneesh Putturi  
-### Lead .NET Full-Stack Engineer · Backend-First · Enterprise Systems
+### Lead .NET Full-Stack Engineer · Enterprise Systems
 
  📧 putturianeesh02@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/aneesh-putturi-38859191/)
 
