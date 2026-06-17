@@ -3,7 +3,7 @@
 <div align="center">
 
 # 👋 Aneesh Putturi  
-### Lead .NET Full-Stack Engineer · Enterprise Systems
+###  .NET Full-Stack Engineer · Enterprise Systems
 
  📧 putturianeesh02@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/aneesh-putturi-38859191/)
 
@@ -12,7 +12,7 @@
 ---
 
 ## 🧠 About Me
-Lead .NET Full-Stack Engineer with **12+ years** building and supporting **backend-heavy, enterprise systems** across **healthcare and financial domains**.  
+ .NET Full-Stack Engineer with **12+ years** building and supporting **backend-heavy, enterprise systems** across **healthcare and financial domains**.  
 I focus on **reliability, maintainability, and production correctness**—not demo-ware.
 
 What you can expect from me:
